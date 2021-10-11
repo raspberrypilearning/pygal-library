@@ -1,4 +1,4 @@
-title: pygal library
+title: Using the pygal library
 hero_image: images/banner.png
 description: pygal-library description
 version: 4
@@ -7,4 +7,4 @@ ingredient: true
 copyedit: false
 last_tested: "2021-10-07"
 steps:
-  - title: pygal library
+  - title: Using the pygal library
