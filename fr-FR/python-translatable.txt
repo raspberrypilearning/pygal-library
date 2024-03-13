@@ -1,11 +1,11 @@
-chart
+graphique
 
-item
+élément
 
-value
+valeur
 
-Cats
+Chats
 
-Dogs
+Chiens
 
-Rabbits
+Lapins
