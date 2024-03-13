@@ -1,30 +1,30 @@
-The pygal library lets you create interactive charts from data.
+La bibliothèque pygal te permet de créer des graphiques interactifs à partir de données.
 
 ```python
 from pygal import *
 ```
 
-To create a chart with pygal, you need to use one of the functions provided by the library:
- - `Bar()` will make a bar chart
- - `Pie()` will make a pie chart
+Pour créer un graphique avec pygal, tu dois utiliser l'une des fonctions fournies par la bibliothèque :
+ - `Bar()` crée un histogramme
+ - `Pie()` crée un camembert
 
 ```python
 chart = Pie()
 ```
 
-You then need to add some data to the chart using the `add()` function of your chart:
+Tu dois ensuite ajouter quelques données au graphique en utilisant la fonction `add()` pour ton graphique :
 
 ```python
 chart.add(item, value)
 ```
 
-Where:
- - `item` is a string — it might be a country, a person, a type of car, etc.
- - `value` is a number related to `item`
+Où :
+ - `élément` est une chaîne de caractères — il peut s'agir d'un pays, d'une personne, d'un type de voiture, etc.
+ - `valeur` est un nombre lié à `élément`
 
-Finally, you need to call the `render()` function of your chart to display it.
+Pour finir, tu dois appeler la fonction `render()` pour ton graphique afin de l'afficher.
 
-For example:
+Par exemple :
 
 ```python
 from pygal import Pie
@@ -38,6 +38,6 @@ chart.add('Rabbits', 10)
 chart.render()
 ```
 
-![A pie chart, displaying sections for cats, dogs, and rabbits](images/pie.png)
+![Camembert, avec des sections pour les chats, les chiens et les lapins](images/pie.png)
 
 
