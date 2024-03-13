@@ -1,0 +1,11 @@
+graphique
+
+élément
+
+valeur
+
+Chats
+
+Chiens
+
+Lapins
