@@ -1,5 +1,5 @@
-Create a Pie chart
+Créer un camembert
 
-Add some data
+Ajouter des données
 
-Display the chart
+Afficher le graphique
