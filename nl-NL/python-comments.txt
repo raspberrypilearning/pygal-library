@@ -1,5 +1,5 @@
-Create a Pie chart
+Maak een taartdiagram
 
-Add some data
+Voeg wat gegevens toe
 
-Display the chart
+Toon de grafiek
