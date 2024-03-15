@@ -1,11 +1,11 @@
-chart
+grafiek
 
 item
 
-value
+waarde
 
-Cats
+Katten
 
-Dogs
+Honden
 
-Rabbits
+Konijnen
