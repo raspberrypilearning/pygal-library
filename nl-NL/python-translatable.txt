@@ -1,0 +1,11 @@
+grafiek
+
+item
+
+waarde
+
+Katten
+
+Honden
+
+Konijnen

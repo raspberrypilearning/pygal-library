@@ -1,0 +1,5 @@
+Maak een taartdiagram
+
+Voeg wat gegevens toe
+
+Toon de grafiek
